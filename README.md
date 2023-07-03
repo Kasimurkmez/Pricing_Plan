@@ -1,2 +1,2 @@
 # Pricing_Plan
-React Pricing Plan Component
+Basic React Pricing Plan Component
